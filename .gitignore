@@ -86,3 +86,11 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+public/build/
+
+aflevering/
+
+.vercel/
+
+.vscode/
